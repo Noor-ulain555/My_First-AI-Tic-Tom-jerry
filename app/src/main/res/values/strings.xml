@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">ai Tic tom jerry</string>
+    <string name="btn0">btn0</string>
+    <string name="btn1">btn1</string>
+    <string name="btn2">btn2</string>
+    <string name="btn3">btn3</string>
+    <string name="btn4">btn4</string>
+    <string name="btn5">btn5</string>
+    <string name="btn6">btn6</string>
+    <string name="btn7">btn7</string>
+    <string name="btn8">btn8</string>
+    <string name="heading">Welcome to Tic-Tom-Jerry</string>
+    <string name="player2score">Player-2 Score</string>
+    <string name="player1score">Player-1 Score</string>
+    <string name="btn_reset">Reset Game</string>
+    <string name="imge">Image</string>
+    <string name="btn_play_again">Play Again</string>
+    <string name="score_Player1">0</string>
+    <string name="score_Player2">0</string>
+    <string name="text_player1">Tom</string>
+    <string name="textStatus">Status</string>
+    <string name="text_player2">Jerry</string>
+    <string name="choose_your_side">Who plays first</string>
+    <string name="jerry1">Jerry</string>
+    <string name="tom1">Tom</string>
+    <string name="draw">Draw</string>
+    <string name="drawScore">0</string>
+    <string name="match">Total Match</string>
+    <string name="matchScore">0</string>
+    <string name="todosplash">TODO</string>
+
+
+</resources>
